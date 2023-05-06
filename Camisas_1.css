@@ -1,0 +1,58 @@
+.head
+{
+	background-image: url('PhotoBase/Mark/cityground.jpg');
+	float: left;
+	position: relative;
+	width: 1000px; 
+	height: 200px;
+	padding-top: 0px;
+	border-bottom: solid 5px black;
+	overflow: hidden;
+	margin-top: -20px;
+}
+
+p{
+	color: black;
+	margin: auto; 
+	font: oblique bold 50% cursive;
+	font-size: 50px;
+}	
+
+#fondo
+{
+	float: right;
+	margin-top: 30px;
+	width: 480px;
+	height: 150px;
+}
+
+#album
+{
+	background-color: gray;
+	width: 500px;
+	height: 50px;	
+	position: absolute;
+	margin-top: 230px;
+	color: black;
+	font: oblique bold 50% monospace;
+	font-size: 40px;
+}
+
+#texto
+{
+	color: black;
+	font: oblique bold 50% monospace;
+	font-size: 30px;
+	margin-top: 300px;
+	position: relative;
+}
+
+#enviar
+{
+	background-color: black;
+	color: white;
+	width: 150px;
+	height: 30px;
+	margin: auto 0px;
+	border-radius: 50px;
+}

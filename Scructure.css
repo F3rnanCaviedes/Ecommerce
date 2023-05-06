@@ -1,0 +1,162 @@
+/*@media all and (max-width: 1000px){
+img{
+width:180px;
+}*/
+
+
+}
+@media all and (max-width: 400px){
+			#logon{
+			width:80%;
+			height:80%;
+			}
+}
+
+								
+#idd
+{
+	font: bold 0% monospace; 
+	font-size: 30px;
+	 background-color: lightblue; 
+	 width: 50vmax;
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: white;
+}
+
+.option{
+	background-color: dark;
+	font-family: oblique bold 50% monospace;
+	text-decoration: none;
+	font-color: white;
+	list-style: none;
+}
+
+.option:hover{
+	text-color: blue;
+	color: white;
+}
+
+#icon
+{
+	width: 350px;
+	height: 350px;
+	margin-right: 120px;
+	margin-top: 70px;
+	position: relative;
+	float: right;
+	border: outset 5px black;
+}
+
+#block
+{
+	margin-top: 70px;
+	margin-left: 70px;
+	width: 650px;
+	height: 500px;
+	position: relative;
+	text-align: center;
+	display: inline-block;
+}
+
+
+#butt{
+	width: 140px; 
+	height: 260px;
+	float: left;
+	border-bottom: outset 10px white;
+	border-right: outset 10px white;
+	border-left: solid 1px black;
+	border-top: solid 1px black;
+	font: bold 40% monospace;
+	font-size: 18px;
+	border-right: 22px;
+	text-align: center;
+	border-radius: 50px; 
+}
+
+#butt:hover
+{
+	color: darkblue;
+	border: white;
+}
+
+#butt:active
+{
+	border: solid gray;
+}
+
+#pbody
+{
+	color: black;
+	margin: auto;
+	text-align: center;
+	font: bold small-caps 300%/400% serif;
+}
+
+a
+{
+	text-decoration: none;
+	list-style: none;
+	font-color: white;
+	text-color: white;
+}
+
+#divdown
+{
+	width: 200px;
+	height: 50px;
+	background-color: white;
+	color:  black;
+	border-radius: 5px;
+	border-right: outset 5px black;
+	text-align: center;
+	margin: auto;
+}
+
+#divdown:hover{
+	border: solid 5px aliceblue;
+	font-size: 20px;
+}
+
+#linkind
+{
+	display: inline;
+}
+
+.access{
+	display: inline-block;
+	margin-left: 170px;
+}
+
+p
+{
+	color: black;
+	margin: auto;
+	margin-top: 10px;
+	font-size: 20px;
+}
+
+
+#pend
+{
+	color: black;
+	margin: auto 0px;
+	font-size: 100px;
+	font: bold small-caps 100%/200% serif;
+}
+
+.link
+{
+	 background-color: white;
+	 border-radius: 30px;
+	 width: 120px;
+	 height: 120px; 
+}
+
+.link:hover
+{
+	border-bottom: solid 10px gray;
+}
